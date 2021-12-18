@@ -37,8 +37,10 @@
 </p>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
- <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/> </a> 
+<a href="https://unix.org" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unix/unix-original.svg" alt="css3" width="40" height="40"/> </a> 
+<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-plain.svg" alt="css3" width="40" height="40"/> </a> 
  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/> </a>
+ <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/> </a> 
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
   <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> 
   <a href="https://testing-library.com/" target="_blank" rel="noreferrer"> <img src="https://testing-library.com/img/octopus-128x128.png" alt="redux" width="40" height="40"/> </a>
@@ -47,18 +49,19 @@
 </p>
 
 <p align="center" >
-    <img align="left" height="160em" src="https://github-readme-stats.vercel.app/api?username=erivamjr&show_icons=true&locale=en&theme=dracula" alt="erivamjr" />
+    <img align="left" height="160em" src="https://github-readme-stats.vercel.app/api?username=erivamjr&show_icons=true&locale=en&theme=tokyonight" alt="erivamjr" />
 </p>
 
 <p align="center">
     &nbsp;
-    <img align="center" height="160em" src="https://github-readme-stats.vercel.app/api/top-langs?username=erivamjr&show_icons=true&locale=en&layout=compact&theme=dracula" alt="erivamjr" />
+    <img align="center" height="160em" src="https://github-readme-stats.vercel.app/api/top-langs?username=erivamjr&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="erivamjr" />
 </p>
 
 </div>
 
  ![Snake animation](https://github.com/erivamjr/erivamjr/blob/output/github-contribution-grid-snake.svg)
 <!--
+dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula
 **erivamjr/erivamjr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
