@@ -40,10 +40,6 @@
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=erivamjr&&theme=dracula" alt="erivamjr" />
 </p>
 
-<p>
-<img height="180em" alt="erivamjr" src="https://giphy.com/embed/12BYUePgtn7sis"/>
-</p>
-
 <!--
 **erivamjr/erivamjr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
