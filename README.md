@@ -1,14 +1,4 @@
-
-<h1 align="center">Hi 👋, I'm Erivam</h1>
-<h2 align="center">A passionate Full Stack developer from 
-<span style="color:green">B</span>
-<span style="color:yellow">r</span>
-<span style="color:blue">a</span>
-<span style="color:green">z</span>
-<span style="color:yellow">i</span>
-<span style="color:blue">l</span>
-<span style="color:yellow">...</span>
-&#x1f1e7;&#x1f1f7;</h2>
+<p align="left"> <img src="./images/erivam.gif" alt="erivamjr" /> </p>
 
 
 
@@ -19,7 +9,7 @@
 
 - 💬 Ask me about **JavaScript, Reactjs**
 
-- 📫 How to reach me **erivamdev@gmail.com**
+- 📫 You can shoot me an email at **erivamdev@gmail.com**!..I'll try to respond as soon as I can.
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/erivamjr](https://www.linkedin.com/in/erivamjr)
 
@@ -38,7 +28,7 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
 <a href="https://unix.org" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unix/unix-original.svg" alt="css3" width="40" height="40"/> </a> 
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-plain.svg" alt="css3" width="40" height="40"/> </a> 
+<a href="https://www.gnu.org" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-plain.svg" alt="css3" width="40" height="40"/> </a> 
  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/> </a>
  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/> </a> 
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
@@ -93,4 +83,14 @@ Here are some ideas to get you started:
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 
 </div>
+<h1 align="center">Hi 👋, I'm Erivam</h1>
+<h2 align="center">A passionate Full Stack developer from 
+<span style="color:green">B</span>
+<span style="color:yellow">r</span>
+<span style="color:blue">a</span>
+<span style="color:green">z</span>
+<span style="color:yellow">i</span>
+<span style="color:blue">l</span>
+<span style="color:yellow">...</span>
+&#x1f1e7;&#x1f1f7;</h2>
 -->
