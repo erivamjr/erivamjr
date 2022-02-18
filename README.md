@@ -35,10 +35,9 @@
   <a href="https://testing-library.com/" target="_blank" rel="noreferrer"> <img src="https://testing-library.com/img/octopus-128x128.png" alt="redux" width="40" height="40"/> </a>
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
   <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> 
-<<<<<<< HEAD
+
   <a href="https://pt-br.reactjs.org/docs/hooks-intro.html" target="_blank" rel="noreferrer"> <img src="./images/iconHooks.svg" alt="React Hooks" width="40" height="40"/> </a> 
-=======
->>>>>>> fd470b3f14ea5981a88b6003c8d896b725899f17
+
 </p>
 
 <p align="center" >
