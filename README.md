@@ -35,7 +35,7 @@
   <a href="https://testing-library.com/" target="_blank" rel="noreferrer"> <img src="https://testing-library.com/img/octopus-128x128.png" alt="redux" width="40" height="40"/> </a>
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
   <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> 
-  <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="./images/iconHooks.svg" alt="redux" width="40" height="40"/> </a> 
+  <a href="https://pt-br.reactjs.org/docs/hooks-intro.html" target="_blank" rel="noreferrer"> <img src="./images/iconHooks.svg" alt="React Hooks" width="40" height="40"/> </a> 
 </p>
 
 <p align="center" >
@@ -44,7 +44,7 @@
 
 <p align="center">
     &nbsp;
-    <img align="center" height="160em" src="https://github-readme-stats.vercel.app/api/top-langs?username=erivamjr&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="erivamjr" />
+    <img align="center" height="134em" src="https://github-readme-stats.vercel.app/api/top-langs?username=erivamjr&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="erivamjr" />
 </p>
 
 </div>
