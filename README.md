@@ -40,14 +40,13 @@
 </p>
 
 <p align="center" >
-    <img align="left" height="160em" src="https://github-readme-stats.vercel.app/api?username=erivamjr&show_icons=true&locale=en&theme=tokyonight" alt="erivamjr" />
+    <img align="left" height="140em" src="https://github-readme-stats.vercel.app/api?username=erivamjr&show_icons=true&locale=en&theme=tokyonight" alt="erivamjr" />
 </p>
 
 <p align="center">
     &nbsp;
-    <img align="center" height="134em" src="https://github-readme-stats.vercel.app/api/top-langs?username=erivamjr&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="erivamjr" />
+    <img align="center" height="140em" src="https://github-readme-stats.vercel.app/api/top-langs?username=erivamjr&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="erivamjr" />
 </p>
-
 </div>
 
  ![Snake animation](https://github.com/erivamjr/erivamjr/blob/output/github-contribution-grid-snake.svg)
@@ -97,4 +96,20 @@ Here are some ideas to get you started:
 
 
   <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="./images/iconHooks.svg" alt="redux" width="40" height="40"/> </a> 
+
+
+
+<p align="center">
+    &nbsp;
+    <img align="center" height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact" alt="erivamjr" />
+</p>
+
+
+<div>
+    <a href='https://github.com/FernandoSegregio'>
+     <img height='140em' src='https://github-readme-stats.vercel.app/api?username=FernandoSegregio&show_icons=true&count_private=true&theme=tokyonight&title_color=38BBAD'/>
+    <img height='140em' src='https://github-readme-stats.vercel.app/api/top-langs/?username=FernandoSegregio&layout=compact&theme=tokyonight&title_color=38BBAD'/>
+
+
+</div>
 -->
