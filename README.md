@@ -45,7 +45,7 @@
 
 <p align="center">
     &nbsp;
-    <img align="center" height="140em" src="https://github-readme-stats.vercel.app/api/top-langs?username=FernandoSegregio&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="erivamjr" />
+    <img align="center" height="140em" src="https://github-readme-stats.vercel.app/api/top-langs?username=erivamjr&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="erivamjr" />
 </p>
 </div>
 
