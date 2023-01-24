@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently studying on [Trybe](https://www.betrybe.com), a web development school that has a genuine commitment to the professional success of its students.
 
-- 🌱 I’m currently learning **Docker, SQL, Nodejs, TypeScript, POO, MongoDB**
+- 🌱 I’m currently learning **AWS, CI/CD, Pipeline**
 
 - 💬 Ask me about **JavaScript, Reactjs**
 
