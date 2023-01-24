@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently studying on [Trybe](https://www.betrybe.com), a web development school that has a genuine commitment to the professional success of its students.
 
-- 🌱 I’m currently learning **AWS, CI/CD, Pipeline**
+- 🌱 I’m currently learning **AWS, CI/CD, Pipeline, Jenkins**
 
 - 💬 Ask me about **JavaScript, Reactjs**
 
