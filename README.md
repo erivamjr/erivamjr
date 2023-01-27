@@ -3,7 +3,7 @@
 
 
 
-- 🔭 I’m currently studying on [Trybe](https://www.betrybe.com), a web development school that has a genuine commitment to the professional success of its students.
+- 🔭 I finished study by [Trybe](https://www.betrybe.com), a web development school that has a genuine commitment to the professional success of its students.
 
 
 - 🌱 I’m currently learning **AWS, CI/CD, Pipeline, Jenkins**
