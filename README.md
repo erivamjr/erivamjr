@@ -1,4 +1,4 @@
-<p align="left"> <img src="./images/erivam.gif" alt="erivamjr" /> </p>
+<p align="left"> <img src="./images/erivam.gif?raw=true" alt="erivamjr" /> </p>
 
 
 
